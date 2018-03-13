@@ -1,0 +1,10 @@
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\bin\Debug\DoctorS.exe.config
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\bin\Debug\DoctorS.exe
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\bin\Debug\DoctorS.pdb
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.csprojResolveAssemblyReference.cache
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.Form1.resources
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.Properties.Resources.resources
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.csproj.GenerateResource.Cache
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.exe
+C:\Users\UserPC\source\repos\DoctorS\DoctorS\obj\Debug\DoctorS.pdb
